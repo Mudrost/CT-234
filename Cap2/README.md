@@ -17,7 +17,7 @@ Passo indutivo:
 
 ```(n+1)^2 < 2^(n+1)```
 
-Como ```n >= 5```, tem-se:
+Como ```n > 4```, tem-se:
 
 ```(n+1)^2 = n^2 + 2n + 1```
 
