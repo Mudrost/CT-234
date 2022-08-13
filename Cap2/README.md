@@ -19,13 +19,13 @@ Passo indutivo:
 
 ```(n+1)^2 = n^2 + 2n + 1```
 
-Já que ```1 < 4 < n```:
+Já que ```1 < 4 < n``` para ```n > 4```, tem-se:
 
 ```n^2 + 2n + 1 < n^2 +2n +n```
 
 ```n^2 + 2n + 1 < n^2 + 3n ```
 
-Já que ```3n < 4n < n^2```:
+Já que ```3n < 4n < n^2``` para ```n > 4```, tem-se:
 
 ```n^2 + 2n + 1 < n^2 + n^2```
 
